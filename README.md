@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riabow
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning working as python programmer
+- 🌱 I’m currently  working as python programmer
 - 💞️ I’m looking to collaborate on with good people 
 - 📫 How to reach me riabow AT mail DOT ru
 
